@@ -1,0 +1,5 @@
+# lyric changelog
+
+## 2013-10-26
+
+* First public version (a lyric script written on 2011-08-23).
